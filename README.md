@@ -1,5 +1,4 @@
 # Yellow Pages - Direktori Bisnis
-
 Yellow Pages adalah proyek direktori bisnis yang bertujuan untuk membantu pengguna menemukan perusahaan, usaha kecil, dan penyedia layanan dalam berbagai kategori bisnis. Ini adalah versi daring yang memungkinkan pengguna untuk mencari dan menemukan informasi bisnis dengan cepat dan mudah.
 
 ## Fitur Utama
